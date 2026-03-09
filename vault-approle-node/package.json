@@ -1,0 +1,12 @@
+{
+  "name": "vault-approle-node",
+  "version": "1.0.0",
+  "description": "Node.js app that authenticates with HashiCorp Vault using AppRole and reads AWS static credentials",
+  "main": "vault-approle.js",
+  "scripts": {
+    "start": "node vault-approle.js"
+  },
+  "dependencies": {
+    "node-vault": "^0.10.0"
+  }
+}
