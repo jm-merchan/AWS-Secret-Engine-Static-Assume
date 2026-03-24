@@ -3,3 +3,5 @@
 *.pdf
 *.docx
 *.txt
+*.yaml
+*.pem.DS_Store
