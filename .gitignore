@@ -4,4 +4,6 @@
 *.docx
 *.txt
 *.yaml
-*.pem.DS_Store
+*.pem
+.DS_Store
+
